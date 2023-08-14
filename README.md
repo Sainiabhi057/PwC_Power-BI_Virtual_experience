@@ -29,5 +29,5 @@ In addition, to better understand the data, the telecom Retention Manager has sc
 - We would like to know more about our customers: visualised clearly so that it’s self-explanatory for our management
 The Retentions Manager has provided some information, have a look through the resource section.
 
-![Customer Retention](Task%202%20-%20Customer%20Retention/Customer%20Churn%20and%20Risk%20Analysis%20pages-1.jpg)
-![Customer Retention](Task%202%20-%20Customer%20Retention/Customer%20Churn%20and%20Risk%20Analysis%20pages-2.jpg)
+![Customer Retention](Task%202%20-%20Customer%20Retention/Customer%20Churn%20and%20Risk%20Analysis-pages-1.jpg)
+![Customer Retention](Task%202%20-%20Customer%20Retention/Customer%20Churn%20and%20Risk%20Analysis-pages-2.jpg)
