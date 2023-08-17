@@ -31,3 +31,26 @@ The Retentions Manager has provided some information, have a look through the re
 
 ![Customer Retention](Task%202%20-%20Customer%20Retention/Customer%20Churn%20and%20Risk%20Analysis-pages-1.jpg)
 ![Customer Retention](Task%202%20-%20Customer%20Retention/Customer%20Churn%20and%20Risk%20Analysis-pages-2.jpg)
+
+## Task 3: Diversity & Inclusion
+Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. They’re reaching out to us for help.
+
+At PwC Switzerland we are often approached by clients seeking support with diversity and inclusion. Companies need a workforce of diverse talents and backgrounds to succeed in an increasingly complex and heterogeneous world. To us, diversity and inclusion are business imperatives, not just nice-to-haves. We aim for all of our teams to feel welcome and appreciated. But actually achieving this and unlocking its potential involves a whole set of practical challenges.
+
+Here is a hint: Calculating the following **measures** could help to define proper KPIs:
+- number of men
+- number of women
+- number of leavers
+- % employees promoted (FY21)
+- % of women promoted
+- % of hires men
+- % of hires women
+- % turnover 
+- Average performance rating: men
+- Average Performance rating: women
+
+![Diversity & Inclusion](Task%203%20-%20Diversity%20&%20Inclusion/Diversity%20&%20Inclusion-pages-1.jpg)
+![Diversity & Inclusion](Task%203%20-%20Diversity%20&%20Inclusion/Diversity%20&%20Inclusion-pages-2.jpg)
+
+## Reference
+ - [Forage - PwC Switzerland Power BI in Data Analytics Virtual Case Experience](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/Power%20BI%20in%20Data%20Analytics?ref=zYi2CnpbWjhcS7sAk)
